@@ -8,69 +8,69 @@
       },
       {
         "id": 2,
-        "nombre": "Wood Fired Pizza Medium",
-        "precio": 50,
-        "categoria": 1
+        "name": "Wood Fired Pizza Medium",
+        "price": 50,
+        "category": 1
       },
       {
         "id": 3,
-        "nombre": "Lemon Pay Slice",
-        "precio": 30,
-        "categoria": 3
+        "name": "Lemon Pay Slice",
+        "price": 30,
+        "category": 3
       },
       {
         "id": 4,
-        "nombre": "Chocolate Cake Slice",
-        "precio": 30,
-        "categoria": 3
+        "name": "Chocolate Cake Slice",
+        "price": 30,
+        "category": 3
       },
       {
         "id": 5,
-        "nombre": "Orange juice",
-        "precio": 15,
-        "categoria": 2
+        "name": "Orange juice",
+        "price": 15,
+        "category": 2
       },
       {
         "id": 6,
-        "nombre": "Large Wood Fired Pizza",
-        "precio": 70,
-        "categoria": 1
+        "name": "Large Wood Fired Pizza",
+        "price": 70,
+        "category": 1
       },
       {
         "id": 7,
-        "nombre": "Rib Eye 800g",
-        "precio": 100,
-        "categoria": 1
+        "name": "Rib Eye 800g",
+        "price": 100,
+        "category": 1
       },
       {
         "id": 8,
-        "nombre": "Orange juice",
-        "precio": 15,
-        "categoria": 2
+        "name": "Orange juice",
+        "price": 15,
+        "category": 2
       },
       {
         "id": 9,
-        "nombre": "Tequila",
-        "precio": 40,
-        "categoria": 2
+        "name": "Tequila",
+        "price": 40,
+        "category": 2
       },
       {
         "id": 10,
-        "nombre": "Cheese Pay Slice",
-        "precio": 30,
-        "categoria": 3
+        "name": "Cheese Pay Slice",
+        "price": 30,
+        "category": 3
       },
       {
         "id": 11,
-        "nombre": "Americano",
-        "precio": 20,
-        "categoria": 2
+        "name": "Americano",
+        "price": 20,
+        "category": 2
       },
       {
         "id": 12,
-        "nombre": "Capuchino",
-        "precio": 40,
-        "categoria": 2
+        "name": "Capuchino",
+        "price": 40,
+        "category": 2
       }
     ]
   }
